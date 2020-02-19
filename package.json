@@ -1,0 +1,22 @@
+{
+  "name": "gulp-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosepRA/gulp-sandbox.git"
+  },
+  "author": "Yosep Ryan Agusta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YosepRA/gulp-sandbox/issues"
+  },
+  "homepage": "https://github.com/YosepRA/gulp-sandbox#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
